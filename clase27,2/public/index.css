@@ -1,0 +1,25 @@
+div.Tarjeta{
+
+    border: solid black;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 50px;
+    width: 100px;
+  
+
+
+} 
+.Tarjeta{    
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    width: 800px;
+
+    
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}

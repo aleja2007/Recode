@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ background-color: rgb(90, 75, 145);}
+
+.img{
+    width: 500px;
+    height: 200px;
+    display: flex;
+    margin-left: 700px;
+}
+
+
+.azul{
+text-align: center;
+color: rgb(128, 128, 189);
+margin-top: 30PX;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo{
+    text-align: center;
+}
