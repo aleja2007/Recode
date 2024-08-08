@@ -18,7 +18,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
     overflow: hidden;
-    max-width: 300px;
+    width: 300px;
     text-align: center;
     transition: background 0.5s linear;
 }
@@ -50,16 +50,6 @@ body {
     font-size: 1em;
     color: #b3c0c4;
     margin-top: 8px;
-}
-
-.cardLocal{
-    background-color: #830a0a;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
-    overflow: hidden;
-    width: 300px;
-    text-align: center;
-    transition: background 0.5s linear;
 }
 
 .btn {
